@@ -5,5 +5,5 @@ if (!hasInterface || isServer) exitWith {};
 }
 forEach
 [
-    ['', '']
+    ['ExileClient_Example_Function', 'MyAddon_Client\Functions\ExileClient_Example_Function.sqf']
 ];

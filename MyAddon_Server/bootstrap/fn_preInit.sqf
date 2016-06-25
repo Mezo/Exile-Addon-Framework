@@ -4,5 +4,5 @@
 }
 forEach
 [
-    ['', '']
+    ['ExileServer_Example_Function', 'MyAddon_Server\code\ExileServer_Example_Function.sqf']
 ];
